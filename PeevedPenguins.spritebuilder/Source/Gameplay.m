@@ -24,7 +24,6 @@
     self.userInteractionEnabled = TRUE;
     _physicsNode.debugDraw = TRUE;
     _mouseJointNode.physicsBody.collisionMask = @[];
-    [_physicsNode addChild:_mouseJointNode];
     CCScene *level = [CCBReader loadAsScene:@"Levels/Level1"];
     // nothing shall collide with our invisible nodes
     _pullbackNode.physicsBody.collisionMask = @[];
