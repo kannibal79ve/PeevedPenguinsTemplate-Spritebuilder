@@ -22,7 +22,7 @@
 - (void)didLoadFromCCB {
     // tell this scene to accept touches
     self.userInteractionEnabled = TRUE;
-    _physicsNode.debugDraw = TRUE;
+    //_physicsNode.debugDraw = TRUE;
     _mouseJointNode.physicsBody.collisionMask = @[];
     CCScene *level = [CCBReader loadAsScene:@"Levels/Level1"];
     // nothing shall collide with our invisible nodes
