@@ -165,7 +165,7 @@
 					<key>value</key>
 					<array>
 						<real>239</real>
-						<real>285</real>
+						<real>290</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -519,10 +519,6 @@
 											<real>106.97763061523438</real>
 										</array>
 										<array>
-											<real>20.128072738647461</real>
-											<real>95.226066589355469</real>
-										</array>
-										<array>
 											<real>17.676509857177734</real>
 											<real>0.2244722843170166</real>
 										</array>
@@ -531,26 +527,8 @@
 									<array>
 										<array>
 											<array>
-												<real>0.0</real>
-												<real>177</real>
-											</array>
-											<array>
-												<real>0.0</real>
-												<real>0.0</real>
-											</array>
-											<array>
 												<real>17.676509857177734</real>
 												<real>0.2244722843170166</real>
-											</array>
-											<array>
-												<real>20.128072738647461</real>
-												<real>95.226066589355469</real>
-											</array>
-										</array>
-										<array>
-											<array>
-												<real>20.128072738647461</real>
-												<real>95.226066589355469</real>
 											</array>
 											<array>
 												<real>40.396812438964844</real>
@@ -563,6 +541,10 @@
 											<array>
 												<real>0.0</real>
 												<real>177</real>
+											</array>
+											<array>
+												<real>0.0</real>
+												<real>0.0</real>
 											</array>
 										</array>
 									</array>
@@ -1167,7 +1149,7 @@
 										<key>value</key>
 										<array>
 											<real>240</real>
-											<real>285</real>
+											<real>290</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
