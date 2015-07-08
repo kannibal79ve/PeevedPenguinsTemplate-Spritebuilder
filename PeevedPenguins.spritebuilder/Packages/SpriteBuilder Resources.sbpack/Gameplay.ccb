@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>225.79995727539062</real>
-						<real>105.99998474121094</real>
+						<real>226</real>
+						<real>103.5</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -93,8 +93,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>7.7999639511108398</real>
-						<real>7.0119757652282715</real>
+						<real>8</real>
+						<real>17</real>
 					</array>
 				</dict>
 				<dict>
@@ -126,14 +126,6 @@
 					<string>Float</string>
 					<key>value</key>
 					<real>4</real>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>limitEnabled</string>
-					<key>type</key>
-					<string>Check</string>
-					<key>value</key>
-					<true/>
 				</dict>
 				<dict>
 					<key>name</key>
@@ -182,8 +174,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>239</real>
-						<real>300</real>
+						<real>232</real>
+						<real>285</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -231,7 +223,7 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>20</real>
+						<real>14</real>
 						<real>150</real>
 					</array>
 				</dict>
@@ -523,7 +515,7 @@
 										<key>value</key>
 										<array>
 											<real>240</real>
-											<real>187.48800659179688</real>
+											<real>175</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -711,8 +703,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>252</real>
-											<real>87.456001281738281</real>
+											<real>253</real>
+											<real>86</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1068,7 +1060,7 @@
 									<key>collisionType</key>
 									<string></string>
 									<key>cornerRadius</key>
-									<real>16</real>
+									<real>0.0</real>
 									<key>density</key>
 									<real>1</real>
 									<key>dynamic</key>
@@ -1104,8 +1096,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>240</real>
-											<real>300</real>
+											<real>233</real>
+											<real>285</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
